@@ -1,3 +1,5 @@
+## Revision history: Forked from the Data Science R Programming Assignement 2 repo according to the instructions on Coursera.
+
 ### Introduction
 
 This second programming assignment will require you to write an R
